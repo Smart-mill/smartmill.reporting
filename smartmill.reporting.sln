@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartmill.Reporting.OpenXml", "Smartmill.Reporting.OpenXml\Smartmill.Reporting.OpenXml.csproj", "{ADBCE58D-D7CF-41C1-9A9D-672AE2405F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBCE58D-D7CF-41C1-9A9D-672AE2405F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBCE58D-D7CF-41C1-9A9D-672AE2405F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBCE58D-D7CF-41C1-9A9D-672AE2405F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBCE58D-D7CF-41C1-9A9D-672AE2405F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E7C612-87ED-45F1-804A-79D831839F2E}
+	EndGlobalSection
+EndGlobal
